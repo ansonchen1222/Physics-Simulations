@@ -1,0 +1,662 @@
+[
+    {
+        "id": "micro-ecosystem",
+        "category": {
+            "en-US": "Biology",
+            "zh-HK": "生物"
+        },
+        "title": {
+            "en-US": "Micro Ecosystem",
+            "zh-HK": "微生態系統"
+        },
+        "description": {
+            "en-US": "A simulation of a small ecosystem with producers, consumers, and decomposers.",
+            "zh-HK": "模擬包含生產者、消費者和分解者的微型生態系統。"
+        },
+        "contributors": [
+            "Bryan Leung"
+        ],
+        "simulationUrl": "simulations/biology/micro-ecosystem.html",
+        "screenshotUrl": "screenshots/micro-ecosystem.png",
+        "createdAt": "2025-11-21",
+        "updatedAt": "2025-11-21"
+    },
+    {
+        "id": "osmosis",
+        "category": {
+            "en-US": "Biology",
+            "zh-HK": "生物"
+        },
+        "title": {
+            "en-US": "Osmosis",
+            "zh-HK": "滲透作用"
+        },
+        "description": {
+            "en-US": "Visualize the movement of water molecules across a semi-permeable membrane.",
+            "zh-HK": "可視化水分子穿過半透膜的運動過程。"
+        },
+        "contributors": [
+            "Bryan Leung"
+        ],
+        "simulationUrl": "simulations/biology/osmosis.html",
+        "screenshotUrl": "screenshots/osmosis.png",
+        "createdAt": "2025-11-21",
+        "updatedAt": "2025-11-21"
+    },
+    {
+        "id": "air-conditioner",
+        "category": {
+            "en-US": "Heat and Gases",
+            "zh-HK": "熱與氣體"
+        },
+        "title": {
+            "en-US": "Window Air Conditioner Cycle",
+            "zh-HK": "窗口式冷氣機運作原理"
+        },
+        "description": {
+            "en-US": "Physics Simulation: Vapor Compression Cycle.",
+            "zh-HK": "物理模擬：蒸氣壓縮循環。"
+        },
+        "contributors": [
+            "Bryan Leung"
+        ],
+        "simulationUrl": "simulations/physics/heat-and-gases/air-conditioner.html",
+        "screenshotUrl": "screenshots/air-conditioner.png",
+        "createdAt": "2025-11-21",
+        "updatedAt": "2025-11-21"
+    },
+    {
+        "id": "convection",
+        "category": {
+            "en-US": "Heat and Gases",
+            "zh-HK": "熱與氣體"
+        },
+        "title": {
+            "en-US": "Convection in a Kettle",
+            "zh-HK": "水煲中的熱對流模擬"
+        },
+        "description": {
+            "en-US": "Observe the cycle of rising hot water and sinking cold water after central heating.",
+            "zh-HK": "觀察中央加熱後，熱水上升與冷水下降形成的循環路徑。"
+        },
+        "contributors": [
+            "Bryan Leung"
+        ],
+        "simulationUrl": "simulations/physics/heat-and-gases/convection.html",
+        "screenshotUrl": "screenshots/convection.png",
+        "createdAt": "2025-11-21",
+        "updatedAt": "2025-11-21"
+    },
+    {
+        "id": "specific-heat-capacity",
+        "category": {
+            "en-US": "Heat and Gases",
+            "zh-HK": "熱與氣體"
+        },
+        "title": {
+            "en-US": "Specific Heat Capacity",
+            "zh-HK": "比熱容量"
+        },
+        "description": {
+            "en-US": "Explore the concept of specific heat capacity with different materials.",
+            "zh-HK": "探索不同材料的比熱容量概念。"
+        },
+        "contributors": [
+            "Bryan Leung"
+        ],
+        "simulationUrl": "simulations/physics/heat-and-gases/specific-heat-capacity.html",
+        "screenshotUrl": "screenshots/specific-heat-capacity.png",
+        "createdAt": "2025-11-21",
+        "updatedAt": "2025-11-21"
+    },
+    {
+        "id": "diffraction-grating",
+        "category": {
+            "en-US": "Optics and Wave Motion",
+            "zh-HK": "光學與波動"
+        },
+        "title": {
+            "en-US": "Diffraction Grating",
+            "zh-HK": "衍射光柵"
+        },
+        "description": {
+            "en-US": "Simulate the interference pattern produced by a diffraction grating.",
+            "zh-HK": "模擬衍射光柵產生的干涉圖樣。"
+        },
+        "contributors": [
+            "Bryan Leung"
+        ],
+        "simulationUrl": "simulations/physics/optics-and-wave-motion/diffraction-grating.html",
+        "screenshotUrl": "screenshots/diffraction-grating.png",
+        "createdAt": "2025-11-21",
+        "updatedAt": "2025-11-21"
+    },
+    {
+        "id": "reflection-of-light",
+        "category": {
+            "en-US": "Optics and Wave Motion",
+            "zh-HK": "光學與波動"
+        },
+        "title": {
+            "en-US": "Reflection of Light",
+            "zh-HK": "光的反射"
+        },
+        "description": {
+            "en-US": "Demonstrate the laws of reflection with interactive light rays.",
+            "zh-HK": "通過互動光線演示反射定律。"
+        },
+        "contributors": [
+            "Bryan Leung"
+        ],
+        "simulationUrl": "simulations/physics/optics-and-wave-motion/reflection-of-light.html",
+        "screenshotUrl": "screenshots/reflection-of-light.png",
+        "createdAt": "2025-11-21",
+        "updatedAt": "2025-11-21"
+    },
+    {
+        "id": "snells-law",
+        "category": {
+            "en-US": "Optics and Wave Motion",
+            "zh-HK": "光學與波動"
+        },
+        "title": {
+            "en-US": "Snell's Law",
+            "zh-HK": "斯涅爾定律"
+        },
+        "description": {
+            "en-US": "Visualize refraction as light passes between different media.",
+            "zh-HK": "可視化光線穿過不同介質時的折射現象。"
+        },
+        "contributors": [
+            "Bryan Leung"
+        ],
+        "simulationUrl": "simulations/physics/optics-and-wave-motion/snells-law.html",
+        "screenshotUrl": "screenshots/snells-law.png",
+        "createdAt": "2025-11-21",
+        "updatedAt": "2025-11-21"
+    },
+    {
+        "id": "photoelectric-effect",
+        "category": {
+            "en-US": "Quantum Physics",
+            "zh-HK": "量子物理"
+        },
+        "title": {
+            "en-US": "Photoelectric Effect",
+            "zh-HK": "光電效應"
+        },
+        "description": {
+            "en-US": "Explore how light knocks electrons off a metal surface.",
+            "zh-HK": "探索光線如何將電子從金屬表面擊出。"
+        },
+        "contributors": [
+            "Bryan Leung"
+        ],
+        "simulationUrl": "simulations/physics/quantum-physics/photoelectric-effect.html",
+        "screenshotUrl": "screenshots/photoelectric-effect.png",
+        "createdAt": "2025-11-22",
+        "updatedAt": "2025-11-22"
+    },
+    {
+        "id": "atomic-orbital",
+        "category": {
+            "en-US": "Chemistry",
+            "zh-HK": "化學"
+        },
+        "title": {
+            "en-US": "Atomic Orbitals",
+            "zh-HK": "原子軌域"
+        },
+        "description": {
+            "en-US": "Visualize the shapes of s, p, and d orbitals in 3D.",
+            "zh-HK": "以 3D 方式可視化 s、p 和 d 軌域的形狀。"
+        },
+        "contributors": [
+            "Bryan Leung"
+        ],
+        "simulationUrl": "simulations/chemistry/atomic-orbital.html",
+        "screenshotUrl": "screenshots/atomic-orbital.png",
+        "createdAt": "2025-11-22",
+        "updatedAt": "2025-11-22"
+    },
+    {
+        "id": "plant-cell",
+        "category": {
+            "en-US": "Biology",
+            "zh-HK": "生物"
+        },
+        "title": {
+            "en-US": "Plant Cell Structure",
+            "zh-HK": "植物細胞構造"
+        },
+        "description": {
+            "en-US": "Interactive diagram of a plant cell and its organelles.",
+            "zh-HK": "植物細胞及其細胞器的互動圖解。"
+        },
+        "contributors": [
+            "Bryan Leung"
+        ],
+        "simulationUrl": "simulations/biology/plant-cell.html",
+        "screenshotUrl": "screenshots/plant-cell.png",
+        "createdAt": "2025-11-22",
+        "updatedAt": "2025-11-22"
+    },
+    {
+        "id": "newton-2nd-law",
+        "category": {
+            "en-US": "Force and Motion",
+            "zh-HK": "力與運動"
+        },
+        "title": {
+            "en-US": "Newton's 2nd Law",
+            "zh-HK": "牛頓第二定律"
+        },
+        "description": {
+            "en-US": "Simulate F=ma with a cart and hanging mass system.",
+            "zh-HK": "利用滑車和懸掛質量系統模擬 F=ma。"
+        },
+        "contributors": [
+            "Yin Kwong Poon"
+        ],
+        "simulationUrl": "simulations/physics/force-and-motion/newton-2nd-law.html",
+        "screenshotUrl": "screenshots/newton-2nd-law.png",
+        "createdAt": "2025-11-22",
+        "updatedAt": "2025-11-22"
+    },
+    {
+        "id": "acrobat-game",
+        "category": {
+            "en-US": "Force and Motion",
+            "zh-HK": "力與運動"
+        },
+        "title": {
+            "en-US": "Acrobat Physics",
+            "zh-HK": "雜技演員物理"
+        },
+        "description": {
+            "en-US": "Learn about pendulum motion and projectile physics.",
+            "zh-HK": "學習單擺運動和拋體物理。"
+        },
+        "contributors": [
+            "Bruce Cheung"
+        ],
+        "simulationUrl": "simulations/physics/force-and-motion/acrobat-game.html",
+        "screenshotUrl": "screenshots/acrobat-game.png",
+        "createdAt": "2025-11-22",
+        "updatedAt": "2025-11-22"
+    },
+    {
+        "id": "refraction",
+        "category": {
+            "en-US": "Optics and Wave Motion",
+            "zh-HK": "光學與波動"
+        },
+        "title": {
+            "en-US": "Refraction Lab",
+            "zh-HK": "折射實驗室"
+        },
+        "description": {
+            "en-US": "Explore how light bends between different media with realistic and ideal optics modes.",
+            "zh-HK": "探索光線如何在不同介質間彎曲，支援真實和理想光學模式。"
+        },
+        "contributors": [
+            "Harry Lau"
+        ],
+        "simulationUrl": "simulations/physics/optics-and-wave-motion/refraction.html",
+        "screenshotUrl": "screenshots/refraction.png",
+        "createdAt": "2025-11-29",
+        "updatedAt": "2025-11-29"
+    },
+    {
+        "id": "ray-diagram-lens",
+        "category": {
+            "en-US": "Optics and Wave Motion",
+            "zh-HK": "光學與波動"
+        },
+        "title": {
+            "en-US": "Lens Ray Diagram",
+            "zh-HK": "透鏡光線圖"
+        },
+        "description": {
+            "en-US": "Interactive ray diagram showing how lenses form images with convex and concave options.",
+            "zh-HK": "互動光線圖展示透鏡如何成像，支援凸透鏡和凹透鏡。"
+        },
+        "contributors": [
+            "Yin Kwong Poon"
+        ],
+        "simulationUrl": "simulations/physics/optics-and-wave-motion/ray-diagram-lens.html",
+        "screenshotUrl": "screenshots/ray-diagram-lens.png",
+        "createdAt": "2025-11-29",
+        "updatedAt": "2025-11-29"
+    },
+    {
+        "id": "wave-interference",
+        "category": {
+            "en-US": "Optics and Wave Motion",
+            "zh-HK": "光學與波動"
+        },
+        "title": {
+            "en-US": "Wave Interference Lab",
+            "zh-HK": "波動干涉實驗室"
+        },
+        "description": {
+            "en-US": "Interactive wave interference simulation with AI-powered analysis and real-time visualization.",
+            "zh-HK": "互動波動干涉模擬，配備 AI 分析和即時視覺化。"
+        },
+        "contributors": [
+            "Winky Yeung"
+        ],
+        "simulationUrl": "simulations/physics/optics-and-wave-motion/wave-interference.html",
+        "screenshotUrl": "screenshots/wave-interference.png",
+        "createdAt": "2025-11-29",
+        "updatedAt": "2025-11-29"
+    },
+    {
+        "id": "sound-interference",
+        "category": {
+            "en-US": "Optics and Wave Motion",
+            "zh-HK": "光學與波動"
+        },
+        "title": {
+            "en-US": "Sound Interference Lab",
+            "zh-HK": "聲波干涉實驗室"
+        },
+        "description": {
+            "en-US": "Explore sound wave interference by moving a microphone or plotting intensity along a line.",
+            "zh-HK": "透過移動咪高峰或沿線繪製強度，探索聲波干涉現象。"
+        },
+        "contributors": [
+            "Yin Kwong Poon"
+        ],
+        "simulationUrl": "simulations/physics/optics-and-wave-motion/sound-interference.html",
+        "screenshotUrl": "screenshots/sound-interference.png",
+        "createdAt": "2025-12-20",
+        "updatedAt": "2025-12-20"
+    },
+    {
+        "id": "magnetic-field-3d",
+        "category": {
+            "en-US": "Electricity and Magnetism",
+            "zh-HK": "電與磁"
+        },
+        "title": {
+            "en-US": "3D Magnetic Field Simulator",
+            "zh-HK": "3D 磁場模擬器"
+        },
+        "description": {
+            "en-US": "Interactive 3D visualization of magnetic fields from magnets, wires, solenoids, and coils.",
+            "zh-HK": "互動 3D 視覺化磁鐵、導線、螺線管和線圈的磁場。"
+        },
+        "contributors": [
+            "Matthew Chan"
+        ],
+        "simulationUrl": "simulations/physics/electricity-and-magnetism/magnetic-field-3d.html",
+        "screenshotUrl": "screenshots/magnetic-field-3d.png",
+        "createdAt": "2025-11-29",
+        "updatedAt": "2025-11-29"
+    },
+    {
+        "id": "moment",
+        "category": {
+            "en-US": "Force and Motion",
+            "zh-HK": "力與運動"
+        },
+        "title": {
+            "en-US": "Multi-Pivot Torque Balance Simulator",
+            "zh-HK": "多支點力矩平衡模擬器"
+        },
+        "description": {
+            "en-US": "Arrange pivots and objects on a beam to study torque balance, automatic leveling, and normal forces.",
+            "zh-HK": "在橫樑上配置支點與物體，研究力矩平衡、自動調整與法向力分布。"
+        },
+        "contributors": [
+            "Yiu Fai Ma"
+        ],
+        "simulationUrl": "simulations/physics/force-and-motion/moment.html",
+        "screenshotUrl": "screenshots/moment.png",
+        "createdAt": "2025-11-29",
+        "updatedAt": "2025-11-29"
+    },
+    {
+        "id": "vertical-motion-parachute",
+        "category": {
+            "en-US": "Force and Motion",
+            "zh-HK": "力與運動"
+        },
+        "title": {
+            "en-US": "Vertical Motion & Parachute Simulator",
+            "zh-HK": "垂直運動與降落傘模擬器"
+        },
+        "description": {
+            "en-US": "Simulate vertical motion with drag and deploy a parachute to see how forces and graphs change over time.",
+            "zh-HK": "模擬受阻力的垂直運動，並在開傘後觀察力與圖表的變化。"
+        },
+        "contributors": [
+            "Winky Yeung"
+        ],
+        "simulationUrl": "simulations/physics/force-and-motion/vertical-motion-parachute.html",
+        "screenshotUrl": "screenshots/vertical-motion-parachute.png",
+        "createdAt": "2025-12-20",
+        "updatedAt": "2025-12-20"
+    },
+    {
+        "id": "friction-in-riding-bicycle",
+        "category": {
+            "en-US": "Force and Motion",
+            "zh-HK": "力與運動"
+        },
+        "title": {
+            "en-US": "Bicycle Propulsion Sequence",
+            "zh-HK": "單車推進序列"
+        },
+        "description": {
+            "en-US": "Animated sequence illustrating torque, action-reaction, and friction forces on a moving bicycle.",
+            "zh-HK": "動畫展示單車行進時的扭矩、作用與反作用，以及摩擦力。"
+        },
+        "contributors": [
+            "Yin Kwong Poon"
+        ],
+        "simulationUrl": "simulations/physics/force-and-motion/friction-in-riding-bicycle.html",
+        "screenshotUrl": "screenshots/friction-in-riding-bicycle.png",
+        "createdAt": "2025-12-20",
+        "updatedAt": "2025-12-20"
+    },
+    {
+        "id": "projectile-sim",
+        "category": {
+            "en-US": "Force and Motion",
+            "zh-HK": "力與運動"
+        },
+        "title": {
+            "en-US": "Projectile Motion",
+            "zh-HK": "拋體運動"
+        },
+        "description": {
+            "en-US": "Explore projectile motion with adjustable launch parameters, air resistance, and real-time graphs.",
+            "zh-HK": "透過可調整的發射參數與空氣阻力，觀察拋體運動及即時圖表。"
+        },
+        "contributors": [
+            "Martin Kwok"
+        ],
+        "simulationUrl": "simulations/physics/force-and-motion/projectile-sim.html",
+        "screenshotUrl": "screenshots/projectile-sim.png",
+        "createdAt": "2025-12-20",
+        "updatedAt": "2025-12-20"
+    },
+    {
+        "id": "inclined-plane",
+        "category": {
+            "en-US": "Force and Motion",
+            "zh-HK": "力與運動"
+        },
+        "title": {
+            "en-US": "Inclined Plane Simulation",
+            "zh-HK": "斜面運動模擬"
+        },
+        "description": {
+            "en-US": "Investigate forces and motion on an inclined plane with adjustable angle, mass, friction, and velocity.",
+            "zh-HK": "調整斜面角度、質量、摩擦與初速度，觀察斜面運動中的受力與速度。"
+        },
+        "contributors": [
+            "Nathan Chan"
+        ],
+        "simulationUrl": "simulations/physics/force-and-motion/inclined-plane.html",
+        "screenshotUrl": "screenshots/inclined-plane.png",
+        "createdAt": "2025-12-20",
+        "updatedAt": "2025-12-20"
+    },
+    {
+        "id": "bouncing-ball-free-fall",
+        "category": {
+            "en-US": "Force and Motion",
+            "zh-HK": "力與運動"
+        },
+        "title": {
+            "en-US": "Bouncing Ball Free Fall",
+            "zh-HK": "彈跳球自由落體"
+        },
+        "description": {
+            "en-US": "Simulate free-fall motion with bounces, air resistance, and vector visualizations.",
+            "zh-HK": "模擬自由落體彈跳，並可切換空氣阻力與向量顯示。"
+        },
+        "contributors": [
+            "Lezhi Lo"
+        ],
+        "simulationUrl": "simulations/physics/force-and-motion/bouncing-ball-free-fall.html",
+        "screenshotUrl": "screenshots/bouncing-ball-free-fall.png",
+        "createdAt": "2025-12-20",
+        "updatedAt": "2025-12-20"
+    },
+    {
+        "id": "nuclear-chain-reaction",
+        "category": {
+            "en-US": "Radioactivity and Nuclear Energy",
+            "zh-HK": "放射性與核能"
+        },
+        "title": {
+            "en-US": "Nuclear Chain Reaction Simulator",
+            "zh-HK": "核子連鎖反應模擬器"
+        },
+        "description": {
+            "en-US": "Simulate nuclear fission chain reactions with moderators, control rods, and neutron leakage.",
+            "zh-HK": "模擬核裂變連鎖反應，包含減速劑、控制棒與中子洩漏。"
+        },
+        "contributors": [
+            "Yiu Fai Ma"
+        ],
+        "simulationUrl": "simulations/physics/radioactivity-and-nuclear-energy/nuclear-chain-reaction.html",
+        "screenshotUrl": "screenshots/nuclear-chain-reaction.png",
+        "createdAt": "2025-12-20",
+        "updatedAt": "2025-12-20"
+    },
+    {
+        "id": "circular-motion",
+        "category": {
+            "en-US": "Force and Motion",
+            "zh-HK": "力與運動"
+        },
+        "title": {
+            "en-US": "Circular Motion Laboratory",
+            "zh-HK": "圓周運動實驗室"
+        },
+        "description": {
+            "en-US": "Explore circular motion physics with interactive experiments on centripetal force, angular velocity, and radius relationships.",
+            "zh-HK": "探索圓周運動物理，透過互動實驗研究向心力、角速率與半徑的關係。"
+        },
+        "contributors": [
+            "Yiu Fai Ma"
+        ],
+        "simulationUrl": "simulations/physics/force-and-motion/circular-motion.html",
+        "screenshotUrl": "screenshots/circular-motion.png",
+        "createdAt": "2025-12-08",
+        "updatedAt": "2025-12-08"
+    },
+    {
+        "id": "coefficient-of-friction",
+        "category": {
+            "en-US": "Force and Motion",
+            "zh-HK": "力與運動"
+        },
+        "title": {
+            "en-US": "Physics Lab: Complete Friction Analysis",
+            "zh-HK": "物理實驗室：完整摩擦力分析"
+        },
+        "description": {
+            "en-US": "Comprehensive friction simulation with equilibrium analysis, torque shift visualization, and interactive challenge mode for exploring static and kinetic friction coefficients.",
+            "zh-HK": "全面的摩擦力模擬，包含平衡分析、力矩偏移視覺化，以及互動挑戰模式來探索靜摩擦係數和動摩擦係數。"
+        },
+        "contributors": [
+            "CH Chan"
+        ],
+        "simulationUrl": "simulations/physics/force-and-motion/coefficient-of-friction.html",
+        "screenshotUrl": "screenshots/coefficient-of-friction.png",
+        "createdAt": "2025-12-08",
+        "updatedAt": "2025-12-08"
+    },
+    {
+        "id": "electrostatic-induction",
+        "category": {
+            "en-US": "Electricity and Magnetism",
+            "zh-HK": "電與磁"
+        },
+        "title": {
+            "en-US": "Electrostatics Lab",
+            "zh-HK": "靜電學實驗室"
+        },
+        "description": {
+            "en-US": "Interactive electrostatic induction simulation with multi-stage polarization, grounding effects, and free sandbox mode for exploring charge distribution and electric fields.",
+            "zh-HK": "互動靜電感應模擬，包含多階段極化、接地效應和自由沙盒模式，用於探索電荷分布和電場。"
+        },
+        "contributors": [
+            "CH Chan"
+        ],
+        "simulationUrl": "simulations/physics/electricity-and-magnetism/electrostatic-induction.html",
+        "screenshotUrl": "screenshots/electrostatic-induction.png",
+        "createdAt": "2025-12-08",
+        "updatedAt": "2025-12-08"
+    },
+    {
+        "id": "rheostat-circuit-path",
+        "category": {
+            "en-US": "Electricity and Magnetism",
+            "zh-HK": "電與磁"
+        },
+        "title": {
+            "en-US": "Rheostat Circuit Path",
+            "zh-HK": "滑動變阻器電路路徑"
+        },
+        "description": {
+            "en-US": "Explore how a rheostat changes resistance and current by moving the contact in linear or rotary modes.",
+            "zh-HK": "透過直線與旋轉模式移動觸點，探索滑動變阻器如何改變電阻與電流。"
+        },
+        "contributors": [
+            "Lezhi Lo"
+        ],
+        "simulationUrl": "simulations/physics/electricity-and-magnetism/rheostat-circuit-path.html",
+        "screenshotUrl": "screenshots/rheostat-circuit-path.png",
+        "createdAt": "2025-12-20",
+        "updatedAt": "2025-12-20"
+    },
+    {
+        "id": "ideal-gas",
+        "category": {
+            "en-US": "Heat and Gases",
+            "zh-HK": "熱與氣體"
+        },
+        "title": {
+            "en-US": "Ideal Gas Simulator",
+            "zh-HK": "理想氣體模擬器"
+        },
+        "description": {
+            "en-US": "Interactive ideal gas law simulator with real-time particle animation, lock P/V/T controls, dynamic charts (P-V, P-T, V-T), and visual demonstrations of thermodynamic processes.",
+            "zh-HK": "互動理想氣體定律模擬器，具有實時粒子動畫、鎖定 P/V/T 控制、動態圖表（P-V、P-T、V-T）以及熱力學過程的視覺演示。"
+        },
+        "contributors": [
+            "Yiu Fai Ma"
+        ],
+        "simulationUrl": "simulations/physics/heat-and-gases/ideal-gas.html",
+        "screenshotUrl": "screenshots/ideal-gas.png",
+        "createdAt": "2025-12-08",
+        "updatedAt": "2025-12-08"
+    }
+]
