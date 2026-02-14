@@ -6,5 +6,5 @@ My goal is to create an open platform where teachers and students can easily bui
 
 ## Usage
 
-Here is our production website:
-https://ai-science-sims.github.io/science-simulations/
+Here is my production website:
+https://ansonchen1222.github.io/Physics-Simulations/
